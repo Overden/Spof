@@ -1,5 +1,6 @@
 /*
- * ICMP-IP SPOOFING
+ * Spof
+ * ICMP-IP SPOOFING TOOL
  * by Overden <overden [at] autistici [dot] org > 
 */
 
