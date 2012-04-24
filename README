@@ -1,0 +1,5 @@
+Spof, An ICMP IP Spoofing Tool
+
+Usage:
+
+	./spoof <source_ip> <destination_ip>
